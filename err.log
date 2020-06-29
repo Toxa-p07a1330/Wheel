@@ -1,0 +1,846 @@
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen getAutoRepeatRate
+INFO: hook_get_auto_repeat_rate [135]: SPI_GETKEYBOARDSPEED: 31.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen getAutoRepeatDelay
+INFO: hook_get_auto_repeat_delay [149]: SPI_GETKEYBOARDDELAY: 1.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen getMultiClickIterval
+INFO: hook_get_multi_click_time [208]: GetDoubleClickTime: 500.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen getPointerSensitivity
+INFO: hook_get_pointer_sensitivity [194]: SPI_GETMOUSESPEED: 20.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen getPointerAccelerationMultiplier
+INFO: hook_get_pointer_acceleration_multiplier [163]: SPI_GETMOUSE[2]: 1.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen getPointerAccelerationThreshold
+INFO: hook_get_pointer_acceleration_threshold [177]: SPI_GETMOUSE[0]: 6.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen getPointerAccelerationThreshold
+INFO: hook_get_pointer_acceleration_threshold [179]: SPI_GETMOUSE[1]: 10.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 577, 870.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 577, 870.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 575, 870.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 573, 870.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 572, 873.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 571, 873.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 570, 873.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 569, 874.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 567, 875.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 566, 875.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 565, 875.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 565, 875.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 566, 875.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 568, 875.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 572, 875.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 578, 874.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_key_pressed [227]: Key 0X2A pressed. (0XA0)
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: refresh_locale_list [470]: GetKeyboardLayoutList(0, NULL) found 2 layouts.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: refresh_locale_list [487]: Received 2 locales.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+SEVERE: refresh_locale_list [628]: Could not find keyboard map for locale 0X0000000004190419!
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+SEVERE: refresh_locale_list [628]: Could not find keyboard map for locale 0X0000000004090409!
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 592, 870.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 609, 866.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 629, 857.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 654, 848.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 680, 839.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 702, 828.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 731, 815.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 760, 806.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 807, 787.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 852, 772.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 903, 756.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 948, 741.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 988, 730.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1093, 702.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: win_hook_event_proc [634]: Restarting Windows input hook on window event: 0X800C.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: win_hook_event_proc [634]: Restarting Windows input hook on window event: 0X800C.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1118, 692.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: win_hook_event_proc [634]: Restarting Windows input hook on window event: 0X800C.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1140, 686.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1155, 682.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1163, 680.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1166, 678.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1169, 677.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: win_hook_event_proc [634]: Restarting Windows input hook on window event: 0X800C.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1170, 677.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1171, 677.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1171, 676.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1172, 676.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1174, 676.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1176, 675.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1179, 673.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1182, 672.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1185, 670.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1187, 670.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1188, 669.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1190, 669.
+
+Jun 29, 2020 12:59:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_key_released [286]: Key 0X2A released. (0XA0)
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1189, 669.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1188, 669.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1187, 669.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1186, 669.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1185, 669.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1182, 669.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1181, 670.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1180, 670.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1179, 670.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1179, 672.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1178, 672.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1176, 672.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1175, 672.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1174, 672.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1173, 672.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1170, 672.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1169, 672.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1167, 672.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1164, 672.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1158, 671.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1153, 670.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1145, 664.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1133, 658.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1122, 648.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1110, 638.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1100, 632.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1093, 627.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1090, 622.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1086, 621.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1083, 618.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1082, 616.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1079, 615.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1078, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1075, 611.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1072, 610.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1070, 609.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1067, 606.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1066, 605.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1064, 603.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1063, 602.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1062, 602.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1059, 601.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1058, 601.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1057, 600.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1056, 600.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1054, 600.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1051, 598.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1046, 598.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1040, 598.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1030, 598.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1018, 599.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1002, 601.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 985, 601.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 963, 604.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_key_pressed [227]: Key 0X2A pressed. (0XA0)
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: refresh_locale_list [470]: GetKeyboardLayoutList(0, NULL) found 2 layouts.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: refresh_locale_list [487]: Received 2 locales.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+SEVERE: refresh_locale_list [628]: Could not find keyboard map for locale 0X0000000004190419!
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+SEVERE: refresh_locale_list [628]: Could not find keyboard map for locale 0X0000000004090409!
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 944, 606.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 925, 608.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 903, 610.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 878, 610.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 853, 612.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 824, 612.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 797, 612.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 770, 612.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 745, 612.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 721, 612.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 699, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 682, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 663, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 652, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 638, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 627, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 619, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 610, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 602, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 593, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 587, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 579, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: win_hook_event_proc [634]: Restarting Windows input hook on window event: 0X800C.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 571, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 565, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 556, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 550, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 544, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 540, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 535, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 531, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 527, 614.
+
+Jun 29, 2020 12:59:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 524, 614.
+
+Jun 29, 2020 12:59:03 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 521, 614.
+
+Jun 29, 2020 12:59:03 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 520, 614.
+
+Jun 29, 2020 12:59:03 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 519, 614.
+
+Jun 29, 2020 12:59:03 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 518, 614.
+
+Jun 29, 2020 12:59:03 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_key_released [286]: Key 0X2A released. (0XA0)
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 518, 614.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 521, 614.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 523, 616.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 528, 616.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 532, 617.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 538, 619.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 545, 619.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 553, 621.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 567, 625.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 587, 625.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: win_hook_event_proc [634]: Restarting Windows input hook on window event: 0X800C.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 632, 625.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 666, 625.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 855, 617.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 960, 617.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1280, 607.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1425, 599.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1731, 569.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1840, 549.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 2021, 513.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: win_hook_event_proc [634]: Restarting Windows input hook on window event: 0X800C.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1951, 506.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1942, 497.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1919, 495.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1919, 494.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1916, 493.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1913, 493.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1911, 491.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1908, 490.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1905, 489.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1902, 487.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1899, 484.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1896, 480.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: win_hook_event_proc [634]: Restarting Windows input hook on window event: 0X800C.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1891, 475.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1888, 466.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1884, 457.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1876, 444.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: win_hook_event_proc [634]: Restarting Windows input hook on window event: 0X800C.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1867, 427.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1854, 406.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1845, 389.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1838, 372.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1834, 357.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1830, 343.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1830, 329.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1828, 318.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1828, 304.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1828, 288.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1829, 271.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1829, 257.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1829, 246.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1831, 235.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1833, 226.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1837, 216.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1840, 207.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1846, 200.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1852, 190.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1859, 183.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1865, 173.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1870, 166.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1875, 159.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1879, 152.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1884, 145.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: win_hook_event_proc [634]: Restarting Windows input hook on window event: 0X800C.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: win_hook_event_proc [634]: Restarting Windows input hook on window event: 0X800C.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1887, 141.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1890, 136.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1895, 129.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: win_hook_event_proc [634]: Restarting Windows input hook on window event: 0X800C.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1899, 123.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: win_hook_event_proc [634]: Restarting Windows input hook on window event: 0X800C.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1902, 113.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1908, 104.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1908, 98.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1908, 92.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1908, 87.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1908, 83.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1903, 80.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1898, 75.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1894, 72.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1891, 69.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1886, 66.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1882, 63.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1877, 60.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1872, 58.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1868, 55.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1862, 54.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1857, 52.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1853, 51.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1850, 49.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1847, 49.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1844, 48.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1842, 48.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1841, 48.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1839, 48.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1838, 48.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1836, 48.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1835, 48.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1833, 48.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1832, 48.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1831, 48.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1830, 48.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1829, 48.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1828, 48.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1826, 49.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1825, 49.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1824, 49.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1823, 49.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1822, 49.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1821, 49.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1819, 49.
+
+Jun 29, 2020 12:59:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1818, 50.
+
+Jun 29, 2020 12:59:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1817, 50.
+
+Jun 29, 2020 12:59:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1816, 50.
+
+Jun 29, 2020 12:59:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_mouse_moved [459]: Mouse moved to 1816, 52.
+
+Jun 29, 2020 12:59:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_button_pressed [367]: Button 1  pressed 1 time(s). (1816, 52)
+
+Jun 29, 2020 12:59:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_button_released [389]: Button 1 released 1 time(s). (1816, 52)
+
+Jun 29, 2020 12:59:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: process_button_released [411]: Button 1 clicked 1 time(s). (1816, 52)
+
+Jun 29, 2020 12:59:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_get_multi_click_time [208]: GetDoubleClickTime: 500.
+
